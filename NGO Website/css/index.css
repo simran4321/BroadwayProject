@@ -1,0 +1,15 @@
+.text-details{
+    margin-left: 650px;
+    cursor: pointer;
+}
+.navbar-brand{
+    margin-right: 20px;
+}
+ li :hover{
+   background-color: blue;
+}
+
+/* form left desgin */
+.form-label{
+    margin-left: -380px;
+}
